@@ -1,4 +1,4 @@
-#LeNet Convolutional Neural Network
+# LeNet Convolutional Neural Network
 Model created with TensorFlow and trained by the mnist dataset.
 The model's summary is displayed when the script is executed.
 Training weights are saved in the "checkpoints" directory.
