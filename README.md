@@ -8,4 +8,5 @@ The script will re-train the model on execution if the weights are missing.
 After evaluating the model on the testing dataset, it will choose one sample of said set at random to plot it alongside the model's prediction.
 
 The script will continuously prompt the user to input an image path of a number drawing. Pressing enter without providing anything will result in the default image being used (28by28.jpg).
-***P.S. In MSPaint erasing and editing the default image with a black colored brush proved to be an acceptable way to test the model manually.***
+
+_**P.S.** In MSPaint erasing and editing the default image with a black colored brush proved to be an acceptable way to test the model manually._
